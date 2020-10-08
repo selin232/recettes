@@ -11,3 +11,5 @@
 2. Ne pas pétrir.
 3. Ajouter un peu de farine si trop humide, un peu de beurre fondu ou de l'eau si trop sec.
 4. Faire une boule et étaler
+
+![Photo pâte brisée](tart.jpg)
